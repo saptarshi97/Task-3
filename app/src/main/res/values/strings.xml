@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="button_text">Next</string>
+    <string name="toast_text">Application Started</string>
+    <string name="message"> </string>
+    <string name="message2">Task 3 Completed </string>
+</resources>
