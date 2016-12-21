@@ -10,12 +10,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="saptarshi.com.task3.MainActivity" >
 
-    <TextView
-        android:id="@+id/edit_message"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/message" />
-
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
