@@ -16,7 +16,8 @@
         android:layout_height="wrap_content"
         android:text="@string/message"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"/>
 
 
 </RelativeLayout>
